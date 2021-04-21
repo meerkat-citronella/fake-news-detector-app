@@ -1,0 +1,4 @@
+client/node_modules
+server/env
+server/__pycache__
+server/news.csv
