@@ -9,7 +9,10 @@ export const About = () => {
         <a href="https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/">
           Detecting Fake News with Python and Machine Learning
         </a>
-        . Corpus: link.to.corpus
+        .{" "}
+        <a href="https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view">
+          Corpus.
+        </a>
       </p>
       <h2>GitHub</h2>
       <p>
