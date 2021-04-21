@@ -11,13 +11,17 @@ export const About = () => {
         </a>
         .{" "}
         <a href="https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view">
-          Corpus.
+          Corpus
         </a>
+        .
       </p>
       <h2>GitHub</h2>
       <p>
-        This is an open source project. Repos can be found at the following
-        locations:
+        This is an open source project. This is the{" "}
+        <a href="https://github.com/meerkat-citronella/fake-news-detector-app">
+          repo
+        </a>
+        .
       </p>
     </div>
   );
