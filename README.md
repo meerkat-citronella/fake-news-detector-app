@@ -10,7 +10,11 @@ yarn install
 yarn start
 ```
 
-To spin up server:
+To spin up server, do the following:
+
+Go to the [corpus](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view) and save the csv file to `news.csv` in the `server` directory.
+
+Then:
 
 ```
 cd server
